@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "proveedor": "Proveedor Andes SAC",
+    "producto": "Laptop Acer i5",
+    "cantidad": 2,
+    "precioUnitario": 2300,
+    "total": 4600,
+    "fecha": "2025-12-14"
+  },
+  {
+    "id": 2,
+    "proveedor": "Distribuidora Tech Perú",
+    "producto": "Mouse Logitech",
+    "cantidad": 10,
+    "precioUnitario": 80,
+    "total": 800,
+    "fecha": "2025-12-13"
+  }
+]
